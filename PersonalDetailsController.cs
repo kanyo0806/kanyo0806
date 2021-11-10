@@ -4,12 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using BidvestData.Common.Models;
 using BidvestData.Common.Services;
-using Microsoft.AspNetCore.Mvc;
+// using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace Bidvest.API.Controllers
 {
-    public class PersonalDetailsController : Controller
+    public class PersonalDetailsController // : Controller
     {
         private readonly IPersonService _personService;
 
