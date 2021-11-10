@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\Bidvest.FileReader.csproj": {}
+  },
+  "projects": {
+    "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\Bidvest.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\Bidvest.Core.csproj",
+        "projectName": "Bidvest.Core",
+        "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\Bidvest.Core.csproj",
+        "packagesPath": "C:\\Users\\C822316\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\C822316\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\psdc-001iisgnsv\\StandardBankNugetServer\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://standardbank.pkgs.visualstudio.com/_packaging/InsurancePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj": {
+                "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\Bidvest.FileReader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\Bidvest.FileReader.csproj",
+        "projectName": "Bidvest.FileReader",
+        "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\Bidvest.FileReader.csproj",
+        "packagesPath": "C:\\Users\\C822316\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\C822316\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\psdc-001iisgnsv\\StandardBankNugetServer\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://standardbank.pkgs.visualstudio.com/_packaging/InsurancePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\Bidvest.Core.csproj": {
+                "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.Core\\Bidvest.Core.csproj"
+              },
+              "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj": {
+                "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj",
+        "projectName": "BidvestData.Common",
+        "projectPath": "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\BidvestData.Common.csproj",
+        "packagesPath": "C:\\Users\\C822316\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Projects\\BidvestData.PracticalTest\\BidvestData.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\C822316\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\psdc-001iisgnsv\\StandardBankNugetServer\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://standardbank.pkgs.visualstudio.com/_packaging/InsurancePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

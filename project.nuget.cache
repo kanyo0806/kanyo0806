@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+liH61e0iP2I0jyGsWlRwSml0Xi3oTxQHMht6hvXkiCc3zD9H63ZRJ4czEogU746wl1cDXmnJT693BkXG0jyrw==",
+  "success": true,
+  "projectFilePath": "D:\\VS Projects\\BidvestData.PracticalTest\\Bidvest.FileReader\\Bidvest.FileReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\C822316\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
