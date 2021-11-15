@@ -11,10 +11,6 @@ namespace kanyo0806
   [TestClass]
   public class HomeControllerTest
   {
-    HomeController GetHomeController()
-    {
-      throw new System.NotImplementedException();
-    }
     [TestMethod]
     public void IndexTest()
     {
